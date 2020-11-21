@@ -1,0 +1,33 @@
+.AddFolder {
+    color: #dedede;
+  }
+  
+  .AddFolder h2 {
+    margin-left: 16px;
+  }
+  
+  .AddFolder__form label {
+    display: block;
+    margin: 0;
+    max-width: 80%;
+    min-height: 24px;
+  }
+  .AddFolder__form input,
+  .AddFolder__form textarea,
+  .AddFolder__form select {
+    font-size: 14px;
+    padding: 8px;
+    width: 200px;
+    margin-right: 10px;
+    border-radius: 10px;
+  }
+  
+  .required {
+    color: #c51244;
+  }
+  
+  button {
+    background-color: gray;
+    padding: 10px;
+    border-radius: 20px;
+  }
